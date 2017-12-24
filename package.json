@@ -1,0 +1,15 @@
+{
+  "name": "disirc",
+  "version": "1.0.0",
+  "description": "IRC <-> Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandra Frock",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "irc": "^0.5.2"
+  }
+}
